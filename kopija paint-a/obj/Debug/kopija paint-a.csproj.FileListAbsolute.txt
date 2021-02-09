@@ -1,0 +1,10 @@
+D:\C#\kopija paint-a\obj\Debug\kopija paint-a.csprojAssemblyReference.cache
+D:\C#\kopija paint-a\obj\Debug\kopija_paint_a.Form1.resources
+D:\C#\kopija paint-a\obj\Debug\kopija_paint_a.Properties.Resources.resources
+D:\C#\kopija paint-a\obj\Debug\kopija paint-a.csproj.GenerateResource.cache
+D:\C#\kopija paint-a\obj\Debug\kopija paint-a.csproj.CoreCompileInputs.cache
+D:\C#\kopija paint-a\bin\Debug\kopija paint-a.exe.config
+D:\C#\kopija paint-a\bin\Debug\kopija paint-a.exe
+D:\C#\kopija paint-a\bin\Debug\kopija paint-a.pdb
+D:\C#\kopija paint-a\obj\Debug\kopija paint-a.exe
+D:\C#\kopija paint-a\obj\Debug\kopija paint-a.pdb
